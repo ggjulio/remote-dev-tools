@@ -11,7 +11,7 @@ Just a README to compare solutions/tools, and regroup all informations available
     Spin up a new environment from a specific branch in seconds, fix it, PR/merge it, then get back to your previous task's environment in seconds)
 - No need for powerful laptops (Even chromebooks are enough)
 - Greater compute power available if needed. (32 cores + 32GB ram enough ?)
-- Platform independent. Works the same on windows, linux and macos. (No need of platform independent setup)
+- Platform independent. Works the same on windows, linux and macos. (No need of maintaining setup scripts foreach platform)
 - Cost Effective. Containers are stopped and restarted automatically.
 - Security. The source code always stay on the remote server. Even if the laptop is stolen it should be no big deal.
 
@@ -33,8 +33,8 @@ Just a README to compare solutions/tools, and regroup all informations available
 | ❔❔❔❔❔❔❔❔   | ❔                | ❔      | ❔                 | ❔     | ❔             |
 -->
 <!-- copy/paste: ✔️  ❌ ➖ ❔ -->
-|  🐋+🐧=❤️       | Github Codespace  | Gitpod  | Gitpod Dedicated  | Coder | Jetbrain Space |
-|---              | ---               |    ---  | ---               | ---   | ---            |
+|  🐋+🐧=❤️      | [Github Codespace][gh-cs] | [Gitpod][gp] | [Gitpod Dedicated][gp-dc] | [Coder][coder] | [JB space][jb-s] | [Cloud dev][jb-cd] |
+|---              | ---               |    ---  | ---               | ---   | ---             | --- |
 | SAAS            | ✔️                |   ❔    | ❔                | ❔     | ❔             |
 | Self Hosted     | ❌                | ✔️❌   | ❌               | ✔️     | ✔️            |
 | Jetbrain's IDEs | ✔️                | ✔️     | ✔️❔              | ❔     | ❔             |
@@ -56,7 +56,9 @@ SSO Support
 [tool-coder]: https://coder.com/
 [tool-gitpod]: https://www.gitpod.io/
 [tool-gitpod-dedicated]: https://https://www.gitpod.io/dedicated
+[gh-cs]: https://github.com/features/codespaces
 [tool-jetbrain-space]: https://www.jetbrains.com/space/
+[tool-jetbrain-cloud-dev]: https://www.jetbrains.com/space/features/dev-environments.html
 
 <!-- Other -->
 [jetbrain-space-dev-env]: https://www.jetbrains.com/space/features/dev-environments.html
