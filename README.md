@@ -1,4 +1,6 @@
-# k8s-rized_dev_env
+# Remote dev environment
+
+Just a README to regroup all informations available found out there
 
 #### Advantages
 - Spin up a new environment in seconds.
@@ -13,10 +15,12 @@
 - Cost Effective. Containers are stopped and restarted automatically.
 - Security. The source code always stay on the remote server. Even if the laptop is stolen it should be no big deal.
 
-
 #### Inconvenient
-- Very few solutions, they are quite new.
+- Very few solutions, plus they are quite new.
 - Few of them allow self-hosting, and open source.
+- No internet, no dev.
+  - Can be mitigated by having a powerful enough laptop + working in a fully containerized environment. (fully Containerized environment avoid maintaining platform dependent code.)
+- More ?
 
 ### List of all available tools (I found)
 
@@ -26,18 +30,21 @@
 | ✔️ | ❌  | ❔           | ➖             |
 | --- | --- | ---         |   ---           |
 | Yes | No  | Don't know  | Not Applicable  |
-
+<!-- Default line
+| ❔❔❔❔❔❔❔❔   | ❔                | ❔      | ❔                 | ❔     | ❔             |
+-->
 <!-- copy/paste: ✔️  ❌ ➖ ❔ -->
-|   | Github Codespace  | Gitpod  | Gitpod Dedicated | Jetbrain Space  | Coder   |
-|---| ---               |    ---  | --- |---             | ---     |
-| SAAS                  | ✔️      |                 |         |   |
-|---| ---               |    ---  | --- |---             | ---     |
+|  🐋+🐧=❤️       | Github Codespace  | Gitpod  | Gitpod Dedicated  | Coder | Jetbrain Space |
+|---              | ---               |    ---  | ---               | ---   | ---            |
+| SAAS            | ✔️                |   ❔    | ❔                | ❔     | ❔             |
+| Self Hosted     | ❌                | ✔️❌   | ❌               | ✔️     | ✔️            |
+| Jetbrain's IDEs | ✔️                | ✔️     | ✔️❔              | ❔     | ❔             |
+| Vscode          | ✔️                | ✔️     | ❔                 | ❔     | ❔             |
+| ❔❔❔❔❔❔❔❔   | ❔                | ❔      | ❔                 | ❔     | ❔             |
 
-| Self Hosted           | ❌      |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
 
-#### Ressources
+
+#### Ressources (Don't mind, I like to keep sources.)
 - https://blog.jetbrains.com/blog/2022/11/09/remote-development-in-jetbrains-ides-now-available-to-github-codespaces-users/
 - https://coder.com
 - https://www.jetbrains.com/space/features/dev-environments.html
