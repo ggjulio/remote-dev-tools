@@ -1,6 +1,6 @@
 # Remote dev environment
 
-Just a README to regroup all informations available found out there
+Just a README to compare solutions/tools, and regroup all informations available I found.
 
 #### Advantages
 - Spin up a new environment in seconds.
@@ -8,10 +8,10 @@ Just a README to regroup all informations available found out there
 - Project onboarding. Start coding on day one instead of fighting for setting up the local dev environment.
 - Change environments in seconds.
   - Ex: You work on a feature, a critical bug has been assigned to you.
-    Spin up a new environment in seconds, fix it, PR/merge it, then get back to your previous task's environment in seconds)
-- No need for powerful laptops. (Even cheap chromebooks are enough)
+    Spin up a new environment from a specific branch in seconds, fix it, PR/merge it, then get back to your previous task's environment in seconds)
+- No need for powerful laptops (Even chromebooks are enough)
 - Greater compute power available if needed. (32 cores + 32GB ram enough ?)
-- Work the same on windows, linux and macos.
+- Platform independent. Works the same on windows, linux and macos. (No need of platform independent setup)
 - Cost Effective. Containers are stopped and restarted automatically.
 - Security. The source code always stay on the remote server. Even if the laptop is stolen it should be no big deal.
 
@@ -19,11 +19,10 @@ Just a README to regroup all informations available found out there
 - Very few solutions, plus they are quite new.
 - Few of them allow self-hosting, and open source.
 - No internet, no dev.
-  - Can be mitigated by having a powerful enough laptop + working in a fully containerized environment. (fully Containerized environment avoid maintaining platform dependent code.)
+  - Can be mitigated by having a powerful enough laptop + docker. (fully containerized environment to avoid maintaining platform dependent code.
 - More ?
 
 ### List of all available tools (I found)
-
 
 #### Comparing solutions
 
@@ -39,10 +38,10 @@ Just a README to regroup all informations available found out there
 | SAAS            | ✔️                |   ❔    | ❔                | ❔     | ❔             |
 | Self Hosted     | ❌                | ✔️❌   | ❌               | ✔️     | ✔️            |
 | Jetbrain's IDEs | ✔️                | ✔️     | ✔️❔              | ❔     | ❔             |
-| Vscode          | ✔️                | ✔️     | ❔                 | ❔     | ❔             |
+| Vscode IDEs     | ✔️                | ✔️     | ❔                 | ❔     | ❔             |
 | ❔❔❔❔❔❔❔❔   | ❔                | ❔      | ❔                 | ❔     | ❔             |
 
-
+SSO Support
 
 #### Ressources (Don't mind, I like to keep sources.)
 - https://blog.jetbrains.com/blog/2022/11/09/remote-development-in-jetbrains-ides-now-available-to-github-codespaces-users/
