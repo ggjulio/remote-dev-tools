@@ -39,11 +39,13 @@ Just a README to compare solutions/tools, and regroup all informations available
 | OpenSource      | ❔                 | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
 | Licence         | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 | SAAS            | ✔️                |   ❔          | ❔                    | ❔             | ❔             | ✔️                 | ❔                |
-| Self Hosted     | ❌                | ✔️➡❌        | ❌                    | ✔️            | ✔️          | ❔                  | ❔                |
-| Jetbrain's IDEs | ✔️                | ✔️            | ✔️❔                   | ❔             | ❔             | ❔                  | ❔                |
-| Vscode IDEs     | ✔️                | ✔️            | ❔                      | ❔            | ❔             | ❔                   | ❔               |
-| Jupyter         | ✔️                | ❔            | ❔                      | ✔️            | ❔             | ❔                   | ❔               |
+| Self Hosted     | ❌                | ✔️➡❌        | ❌                   | ✔️            | ✔️            | ❔                  | ❔                |
+| Jetbrain's IDEs | ✔️                | ✔️            | ✔️❔                  | ❔             | ❔             | ❔                  | ❔                |
+| Vscode IDEs     | ✔️                | ✔️            | ❔                    | ❔            | ❔             | ❔                   | ❔               |
+| Jupyter         | ✔️                | ❔            | ❔                    | ✔️            | ❔             | ❔                   | ❔               |
 | SSO Support     | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                 |
+| Gitlab          | ❔                 | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
+| Bitbucket       | ❔                 | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
 | ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 
 #### Ressources (Don't mind, I like to keep sources.)
