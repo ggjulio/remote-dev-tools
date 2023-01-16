@@ -11,14 +11,12 @@
 
 |   🐋+🐧=❤️     | [Skafold][skaffold] | [Tilt][tilt] | [DevSpace][dev-space] |
 | ---             | ---                 | ---          | ---                   |
-| Owner           | Alphabet ❔         | ❔            | ❔                    |
+| Owner           | Alphabet❔          | ❔            | ❔                    |
+| Open source     | ✔️                  | ❔            | ❔                    |
 | Licence         | Apache 2.0          | ❔            | ❔                    |
 | Jetbrain's IDEs | ❔                  | ❔            | ❔                    |
-| Vscode IDEs     | ❔                  | ❔            | ❔                    |
+| Vscode          | ❔                  | ❔            | ❔                    |
 | ❔❔❔❔❔❔❔❔   | ❔                  | ❔            | ❔                    |
-
-| Jetbrain's IDEs | ✔️                | ✔️          | ✔️❔                   | ❔             | ❔             | ❔                  | ❔                |
-| Vscode IDEs     | ✔️                | ✔️          | ❔                      | ❔            | ❔             | ❔                   | ❔               |
 
 
 #### Ressources
