@@ -36,19 +36,24 @@ Just a README to compare solutions/tools, and regroup all informations available
 |  🐋+🐧=❤️      | [Codespace][gh-cs] | [Gitpod][gp] | [GP Dedicated][gp-dc] | [Coder][coder] | [Space][jb-s] | [Cloud dev][jb-cd] | [cloud 9][cloud9] |
 |---              | ---                |    ---       | ---                   | ---            | ---           | ---                | ---               |
 | Owner           | Github             |   ➖         | Gitpod                | ➖           | Jetbrain       | Jetbrain            | Aws              |
-| OpenSource      | ❌                | ✔️           | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
-| Licence         | ➖                | AGPL-3.0     | ❔                    | ❔             | ❔             | ❔                  | ❔                |
-| SAAS            | ✔️                | ❔             | ❔                    | ❔             | ❔             | ✔️                 | ❔                |
+| Open source     | ❌                | ✔️           | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
+| OSS Licence     | ➖                | AGPL-3.0     | ❔                    |  AGPL-3.0       | ❔             | ❔                  | ❔                |
+| SSO Support     | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                 |
+| Cost            | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                 |
+|                 | ➖                | ➖            | ➖                   | ➖             | ➖             | ➖               | ➖                |
+| SAAS            | ✔️                | ✔️             | ✔️                  | ❌             | ✔️             | ✔️                 | ❔                |
 | Self Hosted     | ❌                | ✔️➡❌        | ❌                   | ✔️            | ✔️            | ❔                  | ❔                |
+|                 | ➖                | ➖            | ➖                   | ➖             | ➖             | ➖               | ➖                |
+| Bitbucket       | ❌                | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
+| Gitlab          | ❌                | ✔️            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
+| Github          | ✔️                | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
+|                 | ➖                | ➖            | ➖                   | ➖             | ➖             | ➖               | ➖                |
 | Jetbrain's IDEs | ✔️                | ✔️            | ✔️❔                  | ❔             | ❔             | ❔                  | ❔                |
 | Vscode IDEs     | ✔️                | ✔️            | ❔                    | ❔            | ❔             | ❔                   | ❔               |
 | Jupyter         | ✔️                | ❔            | ❔                    | ✔️            | ❔             | ❔                   | ❔               |
-| SSO Support     | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                 |
-| Gitlab          | ❔                 | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
-| Bitbucket       | ❔                 | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
 | ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 
-#### Ressources (Don't mind, I like to keep sources for later retrieval)
+#### Ressources (Don't mind, I like to keep sources for later retrieval (aka CTRL + F))
 - https://blog.jetbrains.com/blog/2022/11/09/remote-development-in-jetbrains-ides-now-available-to-github-codespaces-users/
 - https://coder.com
 - https://www.jetbrains.com/space/features/dev-environments.html
@@ -56,6 +61,8 @@ Just a README to compare solutions/tools, and regroup all informations available
 - https://coder.com/blog/coder-or-gitpod-which-is-better-for-your-team
 - https://aws.amazon.com/fr/blogs/architecture/field-notes-use-aws-cloud9-to-power-your-visual-studio-code-ide/
 - https://coder.com/blog/coder-the-github-codespaces-alternative 
+- https://coder.com/pricing
+- https://www.gitpod.io/docs/configure/authentication/
 
 <!-- Tools -->
 [coder]: https://coder.com/
