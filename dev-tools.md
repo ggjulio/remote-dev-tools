@@ -21,6 +21,7 @@
 
 #### Ressources
 - https://loft.sh/blog/skaffold-vs-tilt-vs-devspace/
+- https://www.reddit.com/r/kubernetes/comments/pek5yk/skaffold_vs_tilt_vs_devspace/
 
 <!-- Link tools -->
 [skaffold]: https://skaffold.dev/
