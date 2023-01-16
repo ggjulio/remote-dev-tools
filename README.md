@@ -36,10 +36,13 @@ Just a README to compare solutions/tools, and regroup all informations available
 |  🐋+🐧=❤️      | [Codespace][gh-cs] | [Gitpod][gp] | [GP Dedicated][gp-dc] | [Coder][coder] | [Space][jb-s] | [Cloud dev][jb-cd] | [cloud 9][cloud9] |
 |---              | ---                |    ---       | ---                   | ---            | ---           | ---                | ---               |
 | Owner           | Github             |   ➖         | Gitpod                | ➖           | Jetbrain       | Jetbrain            | Aws              |
+| OpenSource      | ❔                 | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
+| Licence         | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 | SAAS            | ✔️                |   ❔          | ❔                    | ❔             | ❔             | ✔️                 | ❔                |
-| Self Hosted     | ❌                | ✔️➡❌        | ❌                     | ✔️            | ✔️          | ❔                  | ❔                |
-| Jetbrain's IDEs | ✔️                | ✔️          | ✔️❔                   | ❔             | ❔             | ❔                  | ❔                |
-| Vscode IDEs     | ✔️                | ✔️          | ❔                      | ❔            | ❔             | ❔                   | ❔               |
+| Self Hosted     | ❌                | ✔️➡❌        | ❌                    | ✔️            | ✔️          | ❔                  | ❔                |
+| Jetbrain's IDEs | ✔️                | ✔️            | ✔️❔                   | ❔             | ❔             | ❔                  | ❔                |
+| Vscode IDEs     | ✔️                | ✔️            | ❔                      | ❔            | ❔             | ❔                   | ❔               |
+| Jupyter         | ✔️                | ❔            | ❔                      | ✔️            | ❔             | ❔                   | ❔               |
 | SSO Support     | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                 |
 | ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 
