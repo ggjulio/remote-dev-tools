@@ -13,7 +13,7 @@
 | ---             | ---                 | ---          | ---                   |
 | Owner           | Alphabet❔          | ❔            | ❔                    |
 | Open source     | ✔️                 | ❔            | ❔                    |
-| Licence         | [Apache 2.0][ska-li]| ❔            | ❔                    |
+| Licence         | [Apache 2.0][ska-li]| ❔            | [Apache 2.0][ds-li]  |
 | Jetbrain's IDEs | ❔                  | ❔            | ❔                    |
 | Vscode          | ❔                  | ❔            | ❔                    |
 | ❔❔❔❔❔❔❔❔   | ❔                  | ❔            | ❔                    |
@@ -24,9 +24,11 @@
 
 <!-- Link tools -->
 [skaffold]: https://skaffold.dev/
-[tilt]:
+[tilt]: https://tilt.dev/
 [dev-space]: 
 
 
 <!-- licences tools -->
 [ska-li]: https://github.com/GoogleContainerTools/skaffold/blob/main/LICENSE
+[tilt-li]: 
+[devspace-li]: https://github.com/loft-sh/devspace/blob/main/LICENSE
