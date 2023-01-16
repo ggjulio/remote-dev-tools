@@ -30,16 +30,18 @@ Just a README to compare solutions/tools, and regroup all informations available
 | --- | --- | ---         |   ---           |
 | Yes | No  | Don't know  | Not Applicable  |
 <!-- Default line
-| ❔❔❔❔❔❔❔❔   | ❔                | ❔      | ❔                 | ❔     | ❔             |
+| ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 -->
 <!-- copy/paste: ✔️  ❌ ➖ ❔ -->
-|  🐋+🐧=❤️      | [Github Codespace][gh-cs] | [Gitpod][gp] | [Gitpod Dedicated][gp-dc] | [Coder][coder] | [JB space][jb-s] | [Cloud dev][jb-cd] |
-|---              | ---               |    ---  | ---               | ---   | ---             | --- |
-| SAAS            | ✔️                |   ❔    | ❔                | ❔     | ❔             |
-| Self Hosted     | ❌                | ✔️❌   | ❌               | ✔️     | ✔️            |
-| Jetbrain's IDEs | ✔️                | ✔️     | ✔️❔              | ❔     | ❔             |
-| Vscode IDEs     | ✔️                | ✔️     | ❔                 | ❔     | ❔             |
-| ❔❔❔❔❔❔❔❔   | ❔                | ❔      | ❔                 | ❔     | ❔             |
+|  🐋+🐧=❤️      | [Codespace][gh-cs] | [Gitpod][gp] | [GP Dedicated][gp-dc] | [Coder][coder] | [Space][jb-s] | [Cloud dev][jb-cd] | [cloud 9][cloud9] |
+| ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
+|---              | ---                |    ---       | ---                   | ---            | ---           | ---                | ---               |
+| Owner           | Github             |   ➖         | Gitpod                | ➖           | Jetbrain       | Jetbrain            | Aws              |
+| SAAS            | ✔️                |   ❔          | ❔                    | ❔             | ❔             | ✔️                 | ❔                |
+| Self Hosted     | ❌                | ✔️➡❌        | ❌                     | ✔️            | ✔️          | ❔                  | ❔                |
+| Jetbrain's IDEs | ✔️                | ✔️          | ✔️❔                   | ❔             | ❔             | ❔                  | ❔                |
+| Vscode IDEs     | ✔️                | ✔️          | ❔                      | ❔            | ❔             | ❔                   | ❔               |
+| ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             |                    | ❔                 |
 
 SSO Support
 
@@ -49,16 +51,17 @@ SSO Support
 - https://www.jetbrains.com/space/features/dev-environments.html
 - https://medium.com/@jeremysf/visual-studio-code-github-codespaces-kubernetes-bonkers-c85acfee5148
 - https://coder.com/blog/coder-or-gitpod-which-is-better-for-your-team
-
+- https://aws.amazon.com/fr/blogs/architecture/field-notes-use-aws-cloud9-to-power-your-visual-studio-code-ide/
 
 
 <!-- Tools -->
-[tool-coder]: https://coder.com/
-[tool-gitpod]: https://www.gitpod.io/
-[tool-gitpod-dedicated]: https://https://www.gitpod.io/dedicated
+[coder]: https://coder.com/
+[gp]: https://www.gitpod.io/
+[gp-dc]: https://www.gitpod.io/dedicated
 [gh-cs]: https://github.com/features/codespaces
-[tool-jetbrain-space]: https://www.jetbrains.com/space/
-[tool-jetbrain-cloud-dev]: https://www.jetbrains.com/space/features/dev-environments.html
+[jb-s]: https://www.jetbrains.com/space/
+[jb-cd]: https://www.jetbrains.com/space/features/dev-environments.html
+[cloud9]: https://aws.amazon.com/fr/cloud9/
 
 <!-- Other -->
 [jetbrain-space-dev-env]: https://www.jetbrains.com/space/features/dev-environments.html
