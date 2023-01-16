@@ -36,9 +36,9 @@ Just a README to compare solutions/tools, and regroup all informations available
 |  🐋+🐧=❤️      | [Codespace][gh-cs] | [Gitpod][gp] | [GP Dedicated][gp-dc] | [Coder][coder] | [Space][jb-s] | [Cloud dev][jb-cd] | [cloud 9][cloud9] |
 |---              | ---                |    ---       | ---                   | ---            | ---           | ---                | ---               |
 | Owner           | Github             |   ➖         | Gitpod                | ➖           | Jetbrain       | Jetbrain            | Aws              |
-| OpenSource      | ❔                 | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
-| Licence         | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
-| SAAS            | ✔️                |   ❔          | ❔                    | ❔             | ❔             | ✔️                 | ❔                |
+| OpenSource      | ❌                | ✔️           | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
+| Licence         | ➖                | AGPL-3.0     | ❔                    | ❔             | ❔             | ❔                  | ❔                |
+| SAAS            | ✔️                | ❔             | ❔                    | ❔             | ❔             | ✔️                 | ❔                |
 | Self Hosted     | ❌                | ✔️➡❌        | ❌                   | ✔️            | ✔️            | ❔                  | ❔                |
 | Jetbrain's IDEs | ✔️                | ✔️            | ✔️❔                  | ❔             | ❔             | ❔                  | ❔                |
 | Vscode IDEs     | ✔️                | ✔️            | ❔                    | ❔            | ❔             | ❔                   | ❔               |
@@ -48,7 +48,7 @@ Just a README to compare solutions/tools, and regroup all informations available
 | Bitbucket       | ❔                 | ❔            | ❔                    | ✔️             | ❔             | ❔                  | ❔                |
 | ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 
-#### Ressources (Don't mind, I like to keep sources.)
+#### Ressources (Don't mind, I like to keep sources for later retrieval)
 - https://blog.jetbrains.com/blog/2022/11/09/remote-development-in-jetbrains-ides-now-available-to-github-codespaces-users/
 - https://coder.com
 - https://www.jetbrains.com/space/features/dev-environments.html
