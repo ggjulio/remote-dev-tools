@@ -53,7 +53,7 @@ Just a README to compare solutions/tools, and regroup all informations available
 - https://medium.com/@jeremysf/visual-studio-code-github-codespaces-kubernetes-bonkers-c85acfee5148
 - https://coder.com/blog/coder-or-gitpod-which-is-better-for-your-team
 - https://aws.amazon.com/fr/blogs/architecture/field-notes-use-aws-cloud9-to-power-your-visual-studio-code-ide/
-
+- https://coder.com/blog/coder-the-github-codespaces-alternative 
 
 <!-- Tools -->
 [coder]: https://coder.com/
