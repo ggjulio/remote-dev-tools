@@ -34,16 +34,14 @@ Just a README to compare solutions/tools, and regroup all informations available
 -->
 <!-- copy/paste: ✔️  ❌ ➖ ❔ -->
 |  🐋+🐧=❤️      | [Codespace][gh-cs] | [Gitpod][gp] | [GP Dedicated][gp-dc] | [Coder][coder] | [Space][jb-s] | [Cloud dev][jb-cd] | [cloud 9][cloud9] |
-| ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 |---              | ---                |    ---       | ---                   | ---            | ---           | ---                | ---               |
 | Owner           | Github             |   ➖         | Gitpod                | ➖           | Jetbrain       | Jetbrain            | Aws              |
 | SAAS            | ✔️                |   ❔          | ❔                    | ❔             | ❔             | ✔️                 | ❔                |
 | Self Hosted     | ❌                | ✔️➡❌        | ❌                     | ✔️            | ✔️          | ❔                  | ❔                |
 | Jetbrain's IDEs | ✔️                | ✔️          | ✔️❔                   | ❔             | ❔             | ❔                  | ❔                |
 | Vscode IDEs     | ✔️                | ✔️          | ❔                      | ❔            | ❔             | ❔                   | ❔               |
-| ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             |                    | ❔                 |
-
-SSO Support
+| SSO Support     | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                 |
+| ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 
 #### Ressources (Don't mind, I like to keep sources.)
 - https://blog.jetbrains.com/blog/2022/11/09/remote-development-in-jetbrains-ides-now-available-to-github-codespaces-users/
