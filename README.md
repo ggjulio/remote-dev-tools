@@ -64,6 +64,9 @@ Just a README to compare solutions/tools, and regroup all informations available
 - https://coder.com/pricing
 - https://www.gitpod.io/docs/configure/authentication/
 
+#### alternatives
+- https://devenv.sh/ # compatible devcontainer
+
 <!-- Tools -->
 [coder]: https://coder.com/
 [gp]: https://www.gitpod.io/
