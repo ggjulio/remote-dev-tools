@@ -78,3 +78,5 @@ Just a README to compare solutions/tools, and regroup all informations available
 
 <!-- Other -->
 [jetbrain-space-dev-env]: https://www.jetbrains.com/space/features/dev-environments.html
+
+https://www.infoq.com/articles/devcontainers/
