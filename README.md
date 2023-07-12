@@ -26,8 +26,9 @@ Just a README to compare solutions/tools, and regroup all informations available
 
 #### TODO - tools to check :
 - [ ] https://devpod.sh/
-- [ ] https://developers.redhat.com/products/openshift-dev-spaces/overview
-- [ ] https://www.eclipse.org/che/
+- [ ] https://developers.redhat.com/products/openshift-dev-spaces/overview  
+      https://www.eclipse.org/che/  
+      https://github.com/eclipse/che  
 
 #### Comparing solutions
 
