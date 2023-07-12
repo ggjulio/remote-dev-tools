@@ -24,7 +24,9 @@ Just a README to compare solutions/tools, and regroup all informations available
 
 ### List of all available tools (I found)
 
-# TODO: NEW TOOl : https://devpod.sh/
+#### TODO - tools to check :
+- [ ] https://devpod.sh/
+- [ ] https://developers.redhat.com/products/openshift-dev-spaces/overview
 
 #### Comparing solutions
 
