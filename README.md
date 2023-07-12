@@ -28,7 +28,10 @@ Just a README to compare solutions/tools, and regroup all informations available
 - [ ] https://devpod.sh/
 - [ ] https://developers.redhat.com/products/openshift-dev-spaces/overview  
       https://www.eclipse.org/che/  
-      https://github.com/eclipse/che  
+      https://github.com/eclipse/che
+      https://en.wikipedia.org/wiki/Eclipse_Che
+      https://en.wikipedia.org/wiki/Eclipse_Theia
+      https://github.com/eclipse-theia/theia
 
 #### Comparing solutions
 
