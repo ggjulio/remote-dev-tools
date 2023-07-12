@@ -32,6 +32,7 @@ Just a README to compare solutions/tools, and regroup all informations available
       https://en.wikipedia.org/wiki/Eclipse_Che
       https://en.wikipedia.org/wiki/Eclipse_Theia
       https://github.com/eclipse-theia/theia
+      https://newsroom.eclipse.org/eclipse-newsletter/2022/may/eclipse-che-gets-new-dev-environments-engine
 
 #### Comparing solutions
 
