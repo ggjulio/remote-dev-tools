@@ -1,29 +1,5 @@
 # Remote dev environment
 
-Just a README to compare solutions/tools, and regroup all informations available I found.
-
-#### Advantages
-- Spin up a new environment in seconds.
-- No local setup needed, less drift, repetable development environment.
-- Project onboarding. Start coding on day one instead of fighting for setting up the local dev environment.
-- Change environments in seconds.
-  - Ex: You work on a feature, a critical bug has been assigned to you.
-    Spin up a new environment from a specific branch in seconds, fix it, PR/merge it, then get back to your previous task's environment in seconds)
-- No need for powerful laptops (Even chromebooks are enough)
-- Greater compute power available if needed. (32 cores + 32GB ram enough ?)
-- Platform independent. Works the same on windows, linux and macos. (No need of maintaining setup scripts foreach platform)
-- Cost Effective. Containers are stopped and restarted automatically.
-- Security. The source code always stay on the remote server. Even if the laptop is stolen it should be no big deal.
-
-#### Inconvenient
-- Very few solutions, plus they are quite new.
-- Few of them allow self-hosting, and open source.
-- No internet, no dev.
-  - Can be mitigated by having a powerful enough laptop + docker. (fully containerized environment to avoid maintaining platform dependent code.
-- More ?
-
-### List of all available tools (I found)
-
 #### TODO - tools to check :
 - [ ] https://devpod.sh/
 - [ ] https://developers.redhat.com/products/openshift-dev-spaces/overview  
