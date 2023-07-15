@@ -64,7 +64,7 @@ Just a README to compare solutions/tools, and regroup all informations available
 | Jupyter         | ✔️                | ❔            | ❔                    | ✔️            | ❔             | ❔                   | ❔               |
 | ❔❔❔❔❔❔❔❔   | ❔                 | ❔            | ❔                    | ❔             | ❔             | ❔                  | ❔                |
 
-#### Ressources (Don't mind, I like to keep sources for later retrieval (aka CTRL + F))
+#### Ressources (Don't mind, I like to keep sources for later retrieval (eg `CTRL` + `F`))
 - https://blog.jetbrains.com/blog/2022/11/09/remote-development-in-jetbrains-ides-now-available-to-github-codespaces-users/
 - https://coder.com
 - https://www.jetbrains.com/space/features/dev-environments.html
