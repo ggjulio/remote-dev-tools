@@ -14,6 +14,7 @@
 - [ ] https://azure.microsoft.com/en-us/products/dev-box
       https://techcommunity.microsoft.com/t5/azure-developer-community-blog/create-ready-to-code-dev-boxes-using-config-as-code-now-in/ba-p/3835034
       https://techcommunity.microsoft.com/t5/azure-developer-community-blog/reimagining-developer-workstations-with-microsoft-dev-box/ba-p/3825055
+- [ ] https://blog.jetbrains.com/space/2021/11/29/introducing-remote-development-with-space/
       
 
 #### Comparing solutions
