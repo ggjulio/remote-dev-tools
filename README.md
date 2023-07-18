@@ -11,6 +11,10 @@
       https://newsroom.eclipse.org/eclipse-newsletter/2022/may/eclipse-che-gets-new-dev-environments-engine
       https://eclipsesource.com/blogs/2022/03/09/eclipse-theia-is-the-next-generation-eclipse-platform-for-ides-and-tools/
       https://access.redhat.com/documentation/en-us/red_hat_codeready_workspaces/2.2/html/end-user_guide/che-theia-ide-basics_crw
+- [ ] https://azure.microsoft.com/en-us/products/dev-box
+      https://techcommunity.microsoft.com/t5/azure-developer-community-blog/create-ready-to-code-dev-boxes-using-config-as-code-now-in/ba-p/3835034
+      https://techcommunity.microsoft.com/t5/azure-developer-community-blog/reimagining-developer-workstations-with-microsoft-dev-box/ba-p/3825055
+      
 
 #### Comparing solutions
 
