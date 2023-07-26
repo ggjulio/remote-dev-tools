@@ -1,6 +1,6 @@
 # Remote dev environment
 
-#### TODO - tools to check :
+#### TODO - to check :
 - [ ] https://devpod.sh/
 - [ ] https://developers.redhat.com/products/openshift-dev-spaces/overview  
       https://www.eclipse.org/che/  
@@ -15,6 +15,7 @@
       https://techcommunity.microsoft.com/t5/azure-developer-community-blog/create-ready-to-code-dev-boxes-using-config-as-code-now-in/ba-p/3835034
       https://techcommunity.microsoft.com/t5/azure-developer-community-blog/reimagining-developer-workstations-with-microsoft-dev-box/ba-p/3825055
 - [ ] https://blog.jetbrains.com/space/2021/11/29/introducing-remote-development-with-space/
+- [ ] https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/
       
 
 #### Comparing solutions
