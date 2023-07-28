@@ -16,6 +16,7 @@
       https://techcommunity.microsoft.com/t5/azure-developer-community-blog/reimagining-developer-workstations-with-microsoft-dev-box/ba-p/3825055
 - [ ] https://blog.jetbrains.com/space/2021/11/29/introducing-remote-development-with-space/
 - [ ] https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/
+- [ ] nix/devcontainer conversation: https://news.ycombinator.com/item?id=34513877
       
 
 #### Comparing solutions
