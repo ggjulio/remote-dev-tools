@@ -17,7 +17,7 @@
 - [ ] https://blog.jetbrains.com/space/2021/11/29/introducing-remote-development-with-space/
 - [ ] https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/
 - [ ] nix/devcontainer conversation: https://news.ycombinator.com/item?id=34513877
-      
+- [ ] DevPod (not from loft...that's a k8s operator) https://www.uber.com/en-FR/blog/devpod-improving-developer-productivity-at-uber/      
 
 #### Comparing solutions
 
