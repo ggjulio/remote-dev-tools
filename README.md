@@ -20,6 +20,7 @@
 - [ ] DevPod (not from loft...that's a k8s operator) https://www.uber.com/en-FR/blog/devpod-improving-developer-productivity-at-uber/
 - [ ] https://www.kenmuse.com/blog/improving-dev-container-feature-performance/
 - [ ] https://www.gitpod.io/blog/root-docker-and-vscode
+- [ ] https://github.com/gitpod-io/Gitpod-Eclipse
 
 #### Comparing solutions
 
