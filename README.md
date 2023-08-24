@@ -21,6 +21,8 @@
 - [ ] https://www.kenmuse.com/blog/improving-dev-container-feature-performance/
 - [ ] https://www.gitpod.io/blog/root-docker-and-vscode
 - [ ] https://github.com/gitpod-io/Gitpod-Eclipse
+- [ ] https://codeanywhere.com/
+- [ ] https://stackblitz.com/
 
 #### Comparing solutions
 
