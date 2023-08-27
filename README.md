@@ -23,6 +23,7 @@
 - [ ] https://github.com/gitpod-io/Gitpod-Eclipse
 - [ ] https://codeanywhere.com/
 - [ ] https://stackblitz.com/
+- [ ] https://codecatalyst.aws/explore
 
 #### Comparing solutions
 
