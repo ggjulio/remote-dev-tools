@@ -24,6 +24,7 @@
 - [ ] https://codeanywhere.com/
 - [ ] https://stackblitz.com/
 - [ ] https://codecatalyst.aws/explore
+- [ ] https://about.gitlab.com/direction/create/ide/remote_development/
 
 #### Comparing solutions
 
