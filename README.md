@@ -25,6 +25,8 @@
 - [ ] https://stackblitz.com/
 - [ ] https://codecatalyst.aws/explore
 - [ ] https://about.gitlab.com/direction/create/ide/remote_development/
+- [ ] https://aws.amazon.com/workspaces/
+- [ ] https://cloud.google.com/workstations
 
 #### Comparing solutions
 
