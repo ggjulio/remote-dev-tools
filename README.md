@@ -27,6 +27,7 @@
 - [ ] https://about.gitlab.com/direction/create/ide/remote_development/
 - [ ] https://aws.amazon.com/workspaces/
 - [ ] https://cloud.google.com/workstations
+- [ ] https://mutagen.io/
 
 #### Comparing solutions
 
