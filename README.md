@@ -28,6 +28,7 @@
 - [ ] https://aws.amazon.com/workspaces/
 - [ ] https://cloud.google.com/workstations
 - [ ] https://mutagen.io/
+- [ ] https://hocus.dev/
 
 #### Comparing solutions
 
