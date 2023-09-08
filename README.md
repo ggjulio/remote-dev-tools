@@ -29,6 +29,7 @@
 - [ ] https://cloud.google.com/workstations
 - [ ] https://mutagen.io/
 - [ ] https://hocus.dev/
+- [ ] https://www.usenimbus.com/
 
 #### Comparing solutions
 
